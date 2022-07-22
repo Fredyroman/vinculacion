@@ -7,3 +7,5 @@ function AlumnoUniversitario(nombre, edad){
     this.edad = edad 
     this.numMatricula = null 
 }
+console.log('hola daniel');
+console.log('hola yeison');
